@@ -1,0 +1,1 @@
+this is Shashank. From today onwards I am gonna practice every question of sql
